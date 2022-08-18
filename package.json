@@ -1,0 +1,11 @@
+{
+  "name": "capstone3-maceda",
+  "version": "1.0.0",
+  "description": "Capstone-3",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Peter Jayson Maceda",
+  "license": "ISC"
+}
